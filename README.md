@@ -36,8 +36,8 @@ This is my portfolio website built with Next.js, Tailwind CSS, and TypeScript.
 - Tampilan Kontak Sa <br>
 <img width="1162" height="600" alt="image" src="https://github.com/user-attachments/assets/b7a78ff9-bb4b-4327-b132-d1380f711ca4" /> <br>
 
-#Happy coding  directed  &copyright : Iven Lagowan
-
+# Happy coding  directed  &copyright : Iven Lagowan <br>
+## Join Us : https://portofolion-react-js-css-iven-lagow.vercel.app/
 
 
 
